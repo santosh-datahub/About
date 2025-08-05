@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
@@ -40,50 +40,59 @@
 
 ---
 
+---
+
 ## 📁 Featured Projects
 
-### 1️⃣ **AI-Powered Customer Churn Prediction**
+### 📊 Global Superstore Revenue & Performance Dashboard
 
-> Predicting customer churn for a telecom company using ML algorithms.
+> An interactive dashboard to analyze sales, profit, and quantity across states, customers, and categories for a global retail store.
 
-- Tools Used: Python, Scikit-learn, Pandas, Matplotlib  
-- Algorithms: Random Forest, XGBoost, Logistic Regression  
-- Outcome: Achieved 89% accuracy in churn prediction
+- 📌 Features: State-wise analysis, category segmentation, customer insights, profit trends, and payment modes
+- 🛠️ Tools: Power BI, DAX, Excel, Data Modeling
+- 📈 Focus: Aggregated KPIs, dynamic slicers, bar & pie charts
 
-📌 [View Project Repo](#)
-
----
-
-### 2️⃣ **Real-Time Sales Dashboard (Power BI + SQL)**
-
-> Interactive dashboard to visualize key sales KPIs across regions.
-
-- Tools: Power BI, SQL Server, Excel  
-- Features: Dynamic slicers, drill-down visuals, automated reports
-
-📌 [View Project Repo](#)
+🔗 [View GitHub Repo](#)
 
 ---
 
-### 3️⃣ **NLP-Based Resume Screening Tool**
+### 📦 Blinkit Sales Insights Dashboard
 
-> Automates screening of resumes using NLP techniques.
+> A modern Power BI dashboard built for Blinkit, showcasing insights across outlet types, item categories, average sales, and outlet establishment over time.
 
-- Tools Used: Python, spaCy, Streamlit  
-- Highlights: Keyword matching, semantic similarity, custom scoring
+- 📌 Features: Filterable panels by outlet type, fat content, item category, outlet size
+- 🛠️ Tools: Power BI, DAX, Excel, Data Cleaning
+- 📈 Focus: Time-series trends, pie charts, multi-category drilldowns
 
-📌 [View Project Repo](#)
+🔗 [View GitHub Repo](#)
 
 ---
+
+### 🍕 Pizza Sales Analysis Dashboard
+
+> A comprehensive sales analysis for a pizza store, built across two interactive pages. Includes insights on sales volume, category trends, customer behavior, and best/worst performing pizzas.
+
+- 📌 Features: Monthly/weekly trends, pizza size/category distribution, worst sellers, and order timing
+- 🛠️ Tools: Power BI, DAX, Excel, Relational Modeling
+- 📈 Focus: KPI cards, time-based charts, donut & bar visualizations
+
+🔗 [View GitHub Repo](#)
+
+---
+
+
+---
+
+
 
 ## 🧑‍💻 Skills
 
-- **Languages**: Python, SQL, R (basic)
+- **Languages**: Python, SQL, Java
 - **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Visualization**: Power BI, Tableau, Excel
+- **Visualization**: Power BI, Excel ,Google Looker Studio
 - **Cloud & Versioning**: GitHub, Git, Google Colab, AWS (basic)
-- **Other Tools**: Streamlit, VS Code, Jupyter Notebook, Anaconda
+- **Other Tools**:VS Code, Jupyter Notebook, Anaconda
 
 ---
 
@@ -98,8 +107,8 @@
 
 ## 📫 How to Reach Me
 
-- 🔗 LinkedIn: [Santosh on LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: yourname@example.com
+- 🔗 LinkedIn: [Santosh on LinkedIn](www.linkedin.com/in/santoshji)
+- 📧 Email: santoshkushwahaji16@gmail.com
 - 🌐 Portfolio: [santosh-portfolio.com](https://santosh-portfolio.com)
 
 ---
